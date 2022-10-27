@@ -80,24 +80,24 @@
                         </p>
                         <ul uk-accordion="" class="uk-accordion">
                             <li class="uk-open">
-                                <a class="uk-accordion-title" href="#">OVO</a>
+                                <a class="uk-accordion-title" href="#">BCA</a>
                                 <div class="uk-accordion-content">
                                     <img
-                                        src="assets/images/gifts/ovo.jpg"
+                                        src="assets/images/gifts/bca.jpeg"
                                         class="tw-mx-auto tw-h-auto"
                                         width="400"
-                                        alt="OVO QR CODE"
+                                        alt="BCA QR CODE"
                                     />
                                 </div>
                             </li>
                             <li class="uk-open">
-                                <a class="uk-accordion-title" href="#">BCA</a>
+                                <a class="uk-accordion-title" href="#">OVO</a>
                                 <div class="uk-accordion-content">
                                     <img
-                                        src="assets/images/gifts/bca.jpg"
+                                        src="assets/images/gifts/ovo.jpeg"
                                         class="tw-mx-auto tw-h-auto"
                                         width="400"
-                                        alt="BCA QR CODE"
+                                        alt="OVO QR CODE"
                                     />
                                 </div>
                             </li>
@@ -195,7 +195,7 @@ export default {
          let prevScrollpos = window.pageYOffset;
 
          window.onscroll = () => {
-             
+
             const currentScrollPos = window.pageYOffset;
 
             if (prevScrollpos > currentScrollPos) {

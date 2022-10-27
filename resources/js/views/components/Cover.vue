@@ -8,10 +8,10 @@
                         style="letter-spacing: 3px; color:#ffffffb3;">WEDDING INVITATION</p>
                     <div class="tw-h-64"></div>
                     <div class="tw-py-4">
-                        <h2 class="tw-text-4xl lg:tw-text-5xl tw-text-center tw-font-light uk-scrollspy-inview">Khansa & Salman</h2>
+                        <h2 class="tw-text-4xl lg:tw-text-5xl tw-text-center tw-font-light uk-scrollspy-inview">Aliyah & Fahmi</h2>
                     </div>
                     <p class="tw-text-center tw-font-light tw-text-xs lg:tw-text-lg lg:tw-font-normal uk-scrollspy-inview"
-                        style="color: #bdaa8b; letter-spacing: 3px;">07.11.2021</p>
+                        style="color: #bdaa8b; letter-spacing: 3px;">05.11.2022</p>
                 </div>
             </div>
         </section>

@@ -4,10 +4,10 @@
             <div class="uk-container uk-container-small">
                 <h2 class="tw-text-3xl tw-mt-3 sm:tw-text-4xl md:tw-text-5xl yn-color tw-text-center uk-scrollspy-inview">
                     Save The Date </h2>
-                <p class="tw-text-center tw-mt-2 tw-mb-8 tw-text-md">Minggu, 07 November 2021</p>
+                <p class="tw-text-center tw-mt-2 tw-mb-8 tw-text-md">Sabtu, 05 November 2022</p>
 
                 <div class="uk-grid-small uk-flex-center uk-child-width-auto yn-color2 yn-anim uk-grid uk-countdown uk-scrollspy-inview"
-                    uk-grid uk-countdown="date: 2021-11-07T11:00:00+07:00">
+                    uk-grid uk-countdown="date: 2022-11-05T11:00:00+07:00">
                     <div>
                         <div class="sm:tw-text-4xl md:tw-text-5xl tw-font-semibold uk-countdown-number uk-countdown-days">
                         </div>
@@ -56,13 +56,13 @@
                                     <p class="tw-text-brown-lighter tw-font-normal tw-text-1xl sm:tw-text-2xl lg:tw-text-3xl"
                                         style="font-family: Greenlight Script;">Akad</p>
                                     <p class="tw-text-center tw-mt-2 md:tw-mt-4 tw-text-md sm:tw-text-base md:tw-text-base"
-                                        style="font-size: 14px;">Pukul 08.00 - 09.00 WIB</p>
+                                        style="font-size: 14px;">Pukul 10.00 - 11.00 WIB</p>
                                 </div>
                                 <div>
                                     <p class="tw-text-brown-lighter tw-font-normal tw-text-1xl sm:tw-text-2xl lg:tw-text-3xl"
                                         style="font-family: Greenlight Script;">Resepsi</p>
                                     <p class="tw-text-center tw-mt-2 md:tw-mt-4 tw-text-md sm:tw-text-base md:tw-text-base"
-                                        style="font-size: 14px;">Pukul 10.45 - 14.00 WIB</p>
+                                        style="font-size: 14px;">Pukul 11.00 - 21.00 WIB</p>
                                 </div>
                             </div>
 
@@ -70,14 +70,14 @@
                                 <img class="tw-mx-auto" src="assets/images/pemisah.png" alt="divider">
                             </div>
 
-                            <p class="tw-text-1xl tw-text-center md:tw-text-2xl"> Villa Lagenta </p>
+                            <p class="tw-text-1xl tw-text-center md:tw-text-2xl"> Kediaman Mempelai Wanita </p>
                             <p style="font-size:14px; text-align:center; margin: 8px 0 0px 0;">
-                                Jl. Kol. Masturi No. 8, Lembang, Jawa Barat 40391 </p>
+                                Kp. Cengkok RT 005 RW 02 Ds. Sentul Kec. Balaraja Kab Tangerang - Banten</p>
 
                             <p style="font-size:14px; text-align:center; margin: 8px 0 0px 0;">
                             </p>
 
-                            <a href="https://goo.gl/maps/GrcAzNeiZMVEhWzcA"
+                            <a href="https://goo.gl/maps/Au7tGxazTx8xVcdN7"
                                 class="uk-button uk-button-default uk-button-small btn-white"
                                 style="margin-top:16px; padding: 4px 16px; border-radius: 20px;">Lihat Lokasi Via Google Map
                                 <span uk-icon="icon: arrow-right" class="uk-icon"><svg width="20" height="20"

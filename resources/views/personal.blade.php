@@ -10,7 +10,7 @@
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5">
     <meta name="format-detection" content="telephone=no">
-    <title>Khansa & Salman</title>
+    <title>Fahmi & Aliyah</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     <link rel="stylesheet" href="{{ asset('css/uikit.css') }}">
     <link rel="stylesheet" href="{{ asset('css/invitation-dark.css') }}">
-    
+
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/logo.ico') }}"/>
     <!-- CSS -->
     {{-- <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"> --}}
@@ -51,7 +51,7 @@
 
                 <div class="@if(request()->has('name')) tw-mt-20 @else tw-mt-24 @endif tw-text-center">
                     <p class="uk-text-medium uk-margin-remove-bottom txt-simple">HALLO ✌</p>
-                    
+
                     @if (request()->has('name'))
                         <div class="tw-mb-5 tw-mt-0.5 tw-text-base tw-w-semibold tw-text-center">
                             {{ request()->get('name') }}
@@ -62,16 +62,16 @@
 
                     <p class="uk-text-medium txt-simple">YOU'RE INVITED TO OUR WEDDING</p>
                     <h2 class="yn-color tw-mt-4" style="line-height:1; margin-bottom:9px !important; font-size:28px;">
-                        Khansa &amp; Salman	</h2>
+                        Fahmi &amp; Aliyah	</h2>
                 </div>
 
                 <div class="tw-mt-20">
                     <button id="play-sound" class="uk-modal-close tw-bg-white tw-text-gray-600 tw-text-xs tw-tracking-widest tw-py-2 tw-px-4 tw-rounded-lg tw-w-3/5" type="button">OPEN INVITATION</button>
                 </div>
-                
+
             </div>
         </div>
-    </div>   
+    </div>
 </body>
 
 <!-- JavaScript -->
