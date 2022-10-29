@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="{{ asset('css/uikit.css') }}">
     <link rel="stylesheet" href="{{ asset('css/invitation-dark.css') }}">
 
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/logo.ico') }}"/>
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/favicon.ico') }}"/>
     <!-- CSS -->
     {{-- <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"> --}}
     <style>
