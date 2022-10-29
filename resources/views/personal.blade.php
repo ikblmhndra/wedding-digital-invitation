@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <meta name="title" content="Khansa & Salman">
-    <meta name="description" content="Landing page wedding personal Khansa & Salman">
-    <meta name="keywords" content="khansa & salman, wedding, wedding invitation, villa lagenta">
-    <meta name="author" content="Salman">
+    <meta name="title" content="Aliyah & Fahmi">
+    <meta name="description" content="Landing page wedding personal Aliyah & Fahmi">
+    <meta name="keywords" content="aliyah & fahmi, wedding, wedding invitation, villa lagenta">
+    <meta name="author" content="Fahmi">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5">
     <meta name="format-detection" content="telephone=no">

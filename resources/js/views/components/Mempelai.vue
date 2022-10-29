@@ -21,7 +21,6 @@
                         <div class="tw-text-center">
                             <div class="pl tw-mx-auto"></div>
                             <h2 class="tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl">M Fahmi Ulul Azmi</h2>
-                            <!-- <a href="" class="">@salmanagustian</a>  -->
                             <p class="tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-10">
                                 Putra dari Bpk H. Nurhaya (Alm) <br>& Ibu Hj. Rohyani
                             </p>
@@ -29,7 +28,6 @@
                         <div class="tw-text-center">
                             <div class="pw tw-mx-auto"></div>
                             <h2 class="tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl">Aliyah Marwah</h2>
-                            <!-- <a href="" class="">@zakhansa</a> -->
                             <p class="tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-12 sm:tw-mb-20">
                                 Putri dari Bpk Aliudin (Alm) <br> Bpk Mulyadi (TNI Purn) & Ibu Maryanah
                             </p>

@@ -6900,6 +6900,10 @@ var staticRenderFns = [
                       [_vm._v("M Fahmi Ulul Azmi")]
                     ),
                     _vm._v(" "),
+                    _c("a", { attrs: { href: "" } }, [
+                      _vm._v("@iamfahmi.azmi"),
+                    ]),
+                    _vm._v(" "),
                     _c(
                       "p",
                       {
@@ -6927,6 +6931,8 @@ var staticRenderFns = [
                       },
                       [_vm._v("Aliyah Marwah")]
                     ),
+                    _vm._v(" "),
+                    _c("a", { attrs: { href: "" } }, [_vm._v("@alyh.mrwh")]),
                     _vm._v(" "),
                     _c(
                       "p",
