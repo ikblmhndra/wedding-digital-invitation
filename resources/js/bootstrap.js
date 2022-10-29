@@ -26,5 +26,8 @@ const modal = UIkit.modal("#my_id");
 modal.show();
 
 window.document.getElementById('play-sound').addEventListener('click', function (event) {
-    window.document.getElementById('audio').play();
+    const sourceAudio = new Audio();
+    sourceAudio.autoplay = true;
+    sourceAudio.src = "assets/music/music.m4a"
+    sourceAudio.play();
 });

@@ -1006,7 +1006,10 @@ window.onscroll = function () {
 var modal = UIkit.modal("#my_id");
 modal.show();
 window.document.getElementById('play-sound').addEventListener('click', function (event) {
-  window.document.getElementById('audio').play();
+  var sourceAudio = new Audio();
+  sourceAudio.autoplay = true;
+  sourceAudio.src = "assets/music/music.m4a";
+  sourceAudio.play();
 });
 
 /***/ }),
@@ -5386,8 +5389,20 @@ var staticRenderFns = [
     return _c("div", [
       _c(
         "audio",
-        { attrs: { id: "audio", muted: "", autoplay: "", loop: "" } },
-        [_c("source", { attrs: { src: "assets/music/music.mp3" } })]
+        {
+          attrs: {
+            id: "audio",
+            muted: "",
+            autoplay: "",
+            loop: "",
+            playsinline: "",
+          },
+        },
+        [
+          _c("source", {
+            attrs: { src: "assets/music/music.m4a", type: "audio/mpeg" },
+          }),
+        ]
       ),
     ])
   },
