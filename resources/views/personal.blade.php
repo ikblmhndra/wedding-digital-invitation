@@ -50,7 +50,7 @@
             ">
 
                 <div class="@if(request()->has('name')) tw-mt-20 @else tw-mt-24 @endif tw-text-center">
-                    <p class="uk-text-medium uk-margin-remove-bottom txt-simple">HALLO ✌</p>
+                    <p class="uk-text-medium uk-margin-remove-bottom txt-simple">HELLO</p>
 
                     @if (request()->has('name'))
                         <div class="tw-mb-5 tw-mt-0.5 tw-text-base tw-w-semibold tw-text-center">
