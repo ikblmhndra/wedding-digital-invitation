@@ -24,10 +24,18 @@
         methods: {
             unMuteAudio() {
                 this.isMute = true;
+                // const sourceAudio = new Audio();
+                // sourceAudio.autoplay = true;
+                // sourceAudio.src = "assets/music/music.m4a"
+                // sourceAudio.pause();
                 document.getElementById('audio').pause();
             },
             muteAudio() {
                 this.isMute = false;
+                // const sourceAudio = new Audio();
+                // sourceAudio.autoplay = true;
+                // sourceAudio.src = "assets/music/music.m4a"
+                // sourceAudio.play();
                 document.getElementById('audio').play();
             }
         },

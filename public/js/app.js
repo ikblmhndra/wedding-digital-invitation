@@ -189,7 +189,6 @@ function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len 
 //
 //
 //
-//
 
 
 
@@ -334,11 +333,19 @@ __webpack_require__.r(__webpack_exports__);
   },
   methods: {
     unMuteAudio: function unMuteAudio() {
-      this.isMute = true;
+      this.isMute = true; // const sourceAudio = new Audio();
+      // sourceAudio.autoplay = true;
+      // sourceAudio.src = "assets/music/music.m4a"
+      // sourceAudio.pause();
+
       document.getElementById('audio').pause();
     },
     muteAudio: function muteAudio() {
-      this.isMute = false;
+      this.isMute = false; // const sourceAudio = new Audio();
+      // sourceAudio.autoplay = true;
+      // sourceAudio.src = "assets/music/music.m4a"
+      // sourceAudio.play();
+
       document.getElementById('audio').play();
     }
   }
@@ -5271,8 +5278,6 @@ var render = function () {
       _c("div", { staticClass: "tw-h-12" }),
       _vm._v(" "),
       _c("Navbar"),
-      _vm._v(" "),
-      _c("MusicBox"),
     ],
     1
   )

@@ -148,7 +148,6 @@
         <div class="tw-h-12"></div>
 
         <Navbar></Navbar>
-        <MusicBox></MusicBox>
     </div>
 </template>
 
