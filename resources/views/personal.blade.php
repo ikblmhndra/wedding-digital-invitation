@@ -6,7 +6,7 @@
     <meta name="title" content="Aliyah & Fahmi">
     <meta name="description" content="Landing page wedding personal Aliyah & Fahmi">
     <meta name="keywords" content="aliyah & fahmi, wedding, wedding invitation, villa lagenta">
-    <meta name="author" content="Fahmi">
+    <meta name="author" content="Wedding Fahmi & Aliyah">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5">
     <meta name="format-detection" content="telephone=no">
