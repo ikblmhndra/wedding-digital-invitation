@@ -3111,7 +3111,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.m-name[data-v-4fc729d8] {\n    font-family: Greenlight Script;\n}\n.pl[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/cpp-test.jpg');\n}\n.pw[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/cpw-test.jpg');\n}\n.divider[data-v-4fc729d8] {\n    margin: 0 auto;\n    width: 35%;\n    margin-bottom: 20px;\n    margin-top: 10px;\n    border: 0;\n    height: 1px;\n    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(206, 180, 108, 0.75), rgba(255, 255, 255, 0));\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.m-name[data-v-4fc729d8] {\n    font-family: Greenlight Script;\n}\n.pl[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/male.jpg');\n}\n.pw[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/female.jpg');\n}\n.divider[data-v-4fc729d8] {\n    margin: 0 auto;\n    width: 35%;\n    margin-bottom: 20px;\n    margin-top: 10px;\n    border: 0;\n    height: 1px;\n    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(206, 180, 108, 0.75), rgba(255, 255, 255, 0));\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -5334,7 +5334,7 @@ var staticRenderFns = [
                   _c(
                     "a",
                     { staticClass: "uk-accordion-title", attrs: { href: "#" } },
-                    [_vm._v("DANA")]
+                    [_vm._v("OVO")]
                   ),
                   _vm._v(" "),
                   _c("div", { staticClass: "uk-accordion-content" }, [
@@ -5891,7 +5891,10 @@ var render = function () {
                         padding: "4px 16px",
                         "border-radius": "20px",
                       },
-                      attrs: { href: "https://goo.gl/maps/Au7tGxazTx8xVcdN7" },
+                      attrs: {
+                        href: "https://goo.gl/maps/Au7tGxazTx8xVcdN7",
+                        target: "_blank",
+                      },
                     },
                     [
                       _vm._v(
@@ -6289,7 +6292,7 @@ var staticRenderFns = [
                 {
                   staticClass:
                     "tw-font-light tw-text-sm lg:tw-text-md lg:tw-font-normal tw-text-center uk-scrollspy-inview",
-                  staticStyle: { "letter-spacing": "3px", color: "#ffffffb3" },
+                  staticStyle: { "letter-spacing": "3px", color: "black" },
                 },
                 [_vm._v("WEDDING INVITATION")]
               ),
@@ -6302,6 +6305,7 @@ var staticRenderFns = [
                   {
                     staticClass:
                       "tw-text-4xl lg:tw-text-5xl tw-text-center tw-font-light uk-scrollspy-inview",
+                    staticStyle: { color: "black !important" },
                   },
                   [_vm._v("Aliyah & Fahmi")]
                 ),
@@ -6312,7 +6316,7 @@ var staticRenderFns = [
                 {
                   staticClass:
                     "tw-text-center tw-font-light tw-text-xs lg:tw-text-lg lg:tw-font-normal uk-scrollspy-inview",
-                  staticStyle: { color: "#bdaa8b", "letter-spacing": "3px" },
+                  staticStyle: { color: "black", "letter-spacing": "3px" },
                 },
                 [_vm._v("05.11.2022")]
               ),
@@ -6635,13 +6639,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/1.jpg" },
+                      attrs: { href: "assets/images/gallery/pw-1.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/1.jpg",
+                          src: "assets/images/gallery/pw-1.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6654,13 +6658,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/2.jpg" },
+                      attrs: { href: "assets/images/gallery/pw-2.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/2.jpg",
+                          src: "assets/images/gallery/pw-2.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6673,13 +6677,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/3.jpg" },
+                      attrs: { href: "assets/images/gallery/pw-3.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/3.jpg",
+                          src: "assets/images/gallery/pw-3.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6692,13 +6696,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/6.jpg" },
+                      attrs: { href: "assets/images/gallery/pw-4.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/6.jpg",
+                          src: "assets/images/gallery/pw-4.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6711,13 +6715,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/4.jpg" },
+                      attrs: { href: "assets/images/gallery/pw-5.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/4.jpg",
+                          src: "assets/images/gallery/pw-5.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6730,13 +6734,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/5.jpg" },
+                      attrs: { href: "assets/images/gallery/pw-6.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/5.jpg",
+                          src: "assets/images/gallery/pw-6.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6749,13 +6753,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/7.jpg" },
+                      attrs: { href: "assets/images/gallery/pw-7.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/7.jpg",
+                          src: "assets/images/gallery/pw-7.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6768,13 +6772,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/8.jpg" },
+                      attrs: { href: "assets/images/gallery/cover.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/8.jpg",
+                          src: "assets/images/gallery/cover.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),

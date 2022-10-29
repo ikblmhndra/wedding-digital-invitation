@@ -79,7 +79,7 @@
 
                             <a href="https://goo.gl/maps/Au7tGxazTx8xVcdN7"
                                 class="uk-button uk-button-default uk-button-small btn-white"
-                                style="margin-top:16px; padding: 4px 16px; border-radius: 20px;">Lihat Lokasi Via Google Map
+                                style="margin-top:16px; padding: 4px 16px; border-radius: 20px;" target="_blank">Lihat Lokasi Via Google Map
                                 <span uk-icon="icon: arrow-right" class="uk-icon"><svg width="20" height="20"
                                         viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                                         <polyline fill="none" stroke="#000" points="10 5 15 9.5 10 14"></polyline>

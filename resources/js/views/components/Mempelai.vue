@@ -70,7 +70,7 @@
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
     -webkit-mask-position: center;
-    background-image: url('/assets/images/cpp-test.jpg');
+    background-image: url('/assets/images/male.jpg');
 }
 
 .pw {
@@ -88,7 +88,7 @@
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
     -webkit-mask-position: center;
-    background-image: url('/assets/images/cpw-test.jpg');
+    background-image: url('/assets/images/female.jpg');
 }
 
 .divider {
