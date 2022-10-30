@@ -6676,13 +6676,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/pw-2.jpg" },
+                      attrs: { href: "assets/images/gallery/cover.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/pw-2.jpg",
+                          src: "assets/images/gallery/cover.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6695,51 +6695,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/pw-3.jpg" },
+                      attrs: { href: "assets/images/gallery/12.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/pw-3.jpg",
-                          alt: "Our Prawedding Photo",
-                        },
-                      }),
-                    ]
-                  ),
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "uk-grid-margin" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/pw-4.jpg" },
-                    },
-                    [
-                      _c("img", {
-                        staticClass: "thumb-gallery",
-                        attrs: {
-                          src: "assets/images/gallery/pw-4.jpg",
-                          alt: "Our Prawedding Photo",
-                        },
-                      }),
-                    ]
-                  ),
-                ]),
-                _vm._v(" "),
-                _c("div", { staticClass: "uk-grid-margin uk-first-column" }, [
-                  _c(
-                    "a",
-                    {
-                      staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/pw-5.jpg" },
-                    },
-                    [
-                      _c("img", {
-                        staticClass: "thumb-gallery",
-                        attrs: {
-                          src: "assets/images/gallery/pw-5.jpg",
+                          src: "assets/images/gallery/12.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6771,13 +6733,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/pw-7.jpg" },
+                      attrs: { href: "assets/images/gallery/13.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/pw-7.jpg",
+                          src: "assets/images/gallery/13.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6790,13 +6752,51 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/cover.jpg" },
+                      attrs: { href: "assets/images/gallery/14.jpg" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/cover.jpg",
+                          src: "assets/images/gallery/14.jpg",
+                          alt: "Our Prawedding Photo",
+                        },
+                      }),
+                    ]
+                  ),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "uk-grid-margin uk-first-column" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
+                      attrs: { href: "assets/images/gallery/11.jpg" },
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "thumb-gallery",
+                        attrs: {
+                          src: "assets/images/gallery/11.jpg",
+                          alt: "Our Prawedding Photo",
+                        },
+                      }),
+                    ]
+                  ),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "uk-grid-margin" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
+                      attrs: { href: "assets/images/gallery/15.jpg" },
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "thumb-gallery",
+                        attrs: {
+                          src: "assets/images/gallery/15.jpg",
                           alt: "Our Prawedding Photo",
                         },
                       }),
