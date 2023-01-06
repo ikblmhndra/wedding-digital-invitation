@@ -3,14 +3,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <meta name="title" content="Wedding Invitation Aliyah & Fahmi">
-    <meta name="description" content="Wedding Invitation Aliyah & Fahmi">
-    <meta name="keywords" content="aliyah & fahmi, wedding, wedding invitation">
-    <meta name="author" content="Wedding Fahmi & Aliyah">
+    <meta name="title" content="Wedding Invitation Dede & Arini">
+    <meta name="description" content="Wedding Invitation Dede & Arini">
+    <meta name="keywords" content="dede & arini, wedding, wedding invitation">
+    <meta name="author" content="Wedding Dede & Arini">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5">
     <meta name="format-detection" content="telephone=no">
-    <title>Fahmi & Aliyah</title>
+    <title>Dede & Arini</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -62,7 +62,7 @@
 
                     <p class="uk-text-medium txt-simple">YOU'RE INVITED TO OUR WEDDING</p>
                     <h2 class="yn-color tw-mt-4" style="line-height:1; margin-bottom:9px !important; font-size:28px;">
-                        Fahmi &amp; Aliyah	</h2>
+                        Dede &amp; Arini	</h2>
                 </div>
 
                 <div class="tw-mt-20">

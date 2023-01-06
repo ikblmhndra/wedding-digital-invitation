@@ -28,6 +28,6 @@ modal.show();
 window.document.getElementById('play-sound').addEventListener('click', function (event) {
     const sourceAudio = new Audio();
     sourceAudio.autoplay = true;
-    sourceAudio.src = "assets/music/music.m4a"
+    sourceAudio.src = "assets/music/beauty-in-white.m4a"
     sourceAudio.play();
 });

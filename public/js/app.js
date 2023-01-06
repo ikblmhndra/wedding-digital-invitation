@@ -881,6 +881,30 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
@@ -1015,7 +1039,7 @@ modal.show();
 window.document.getElementById('play-sound').addEventListener('click', function (event) {
   var sourceAudio = new Audio();
   sourceAudio.autoplay = true;
-  sourceAudio.src = "assets/music/music.m4a";
+  sourceAudio.src = "assets/music/beauty-in-white.m4a";
   sourceAudio.play();
 });
 
@@ -5405,7 +5429,10 @@ var staticRenderFns = [
         },
         [
           _c("source", {
-            attrs: { src: "assets/music/music.m4a", type: "audio/mpeg" },
+            attrs: {
+              src: "assets/music/beauty-in-white.m4a",
+              type: "audio/mpeg",
+            },
           }),
         ]
       ),
@@ -5840,7 +5867,7 @@ var render = function () {
         ),
         _vm._v(" "),
         _c("p", { staticClass: "tw-text-center tw-mt-2 tw-mb-8 tw-text-md" }, [
-          _vm._v("Sabtu, 05 November 2022"),
+          _vm._v("Sabtu, 14 Januari 2023"),
         ]),
         _vm._v(" "),
         _vm._m(0),
@@ -5886,7 +5913,7 @@ var render = function () {
                     },
                     [
                       _vm._v(
-                        "\n                            Kp. Cengkok RT 005 RW 02 Ds. Sentul Kec. Balaraja Kab Tangerang - Banten"
+                        "\n                            Kp. Kelapa, RT 001 RW 007 Ds. Wanakerta Kec. Sindang Jaya Kab Tangerang - Banten"
                       ),
                     ]
                   ),
@@ -5910,7 +5937,7 @@ var render = function () {
                         "border-radius": "20px",
                       },
                       attrs: {
-                        href: "https://goo.gl/maps/Au7tGxazTx8xVcdN7",
+                        href: "https://maps.app.goo.gl/oorWW9LgkADDxdPc7?g_st=ic",
                         target: "_blank",
                       },
                     },
@@ -5989,7 +6016,7 @@ var staticRenderFns = [
           "uk-grid-small uk-flex-center uk-child-width-auto yn-color2 yn-anim uk-grid uk-countdown uk-scrollspy-inview",
         attrs: {
           "uk-grid": "",
-          "uk-countdown": "date: 2022-11-05T11:00:00+07:00",
+          "uk-countdown": "date: 2023-01-14T10:00:00+07:00",
         },
       },
       [
@@ -6099,7 +6126,7 @@ var staticRenderFns = [
               "tw-text-center tw-mt-2 md:tw-mt-4 tw-text-md sm:tw-text-base md:tw-text-base",
             staticStyle: { "font-size": "14px" },
           },
-          [_vm._v("Pukul 10.00 - 11.00 WIB")]
+          [_vm._v("Pukul 10.00 WIB")]
         ),
       ]),
       _vm._v(" "),
@@ -6121,7 +6148,7 @@ var staticRenderFns = [
               "tw-text-center tw-mt-2 md:tw-mt-4 tw-text-md sm:tw-text-base md:tw-text-base",
             staticStyle: { "font-size": "14px" },
           },
-          [_vm._v("Pukul 11.00 - 21.00 WIB")]
+          [_vm._v("Pukul 11.00 - Selesai")]
         ),
       ]),
     ])
@@ -6299,7 +6326,7 @@ var staticRenderFns = [
         {
           staticClass: "tw-bg-cover tw-bg-center",
           staticStyle: {
-            "background-image": "url('assets/images/gallery/cover.jpg')",
+            "background-image": "url('assets/images/gallery/pw/15.webp')",
           },
         },
         [
@@ -6325,7 +6352,7 @@ var staticRenderFns = [
                       "tw-text-4xl lg:tw-text-5xl tw-text-center tw-font-light uk-scrollspy-inview",
                     staticStyle: { color: "black !important" },
                   },
-                  [_vm._v("Aliyah & Fahmi")]
+                  [_vm._v("Dede & Arini")]
                 ),
               ]),
               _vm._v(" "),
@@ -6334,9 +6361,9 @@ var staticRenderFns = [
                 {
                   staticClass:
                     "tw-text-center tw-font-light tw-text-xs lg:tw-text-lg lg:tw-font-normal uk-scrollspy-inview",
-                  staticStyle: { color: "black", "letter-spacing": "3px" },
+                  staticStyle: { color: "white", "letter-spacing": "3px" },
                 },
-                [_vm._v("05.11.2022")]
+                [_vm._v("14.02.2023")]
               ),
             ]),
           ]),
@@ -6657,13 +6684,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/pw-1.jpg" },
+                      attrs: { href: "assets/images/gallery/pw/1.webp" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/pw-1.jpg",
+                          src: "assets/images/gallery/pw/1.webp",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6676,13 +6703,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/cover.jpg" },
+                      attrs: { href: "assets/images/gallery/pw/4.webp" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/cover.jpg",
+                          src: "assets/images/gallery/pw/4.webp",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6695,13 +6722,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/12.jpg" },
+                      attrs: { href: "assets/images/gallery/pw/8.webp" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/12.jpg",
+                          src: "assets/images/gallery/pw/8.webp",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6714,13 +6741,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/pw-6.jpg" },
+                      attrs: { href: "assets/images/gallery/pw/11.webp" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/pw-6.jpg",
+                          src: "assets/images/gallery/pw/11.webp",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6733,13 +6760,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/13.jpg" },
+                      attrs: { href: "assets/images/gallery/pw/2.webp" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/13.jpg",
+                          src: "assets/images/gallery/pw/2.webp",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6752,13 +6779,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/14.jpg" },
+                      attrs: { href: "assets/images/gallery/pw/3.webp" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/14.jpg",
+                          src: "assets/images/gallery/pw/3.webp",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6771,13 +6798,13 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/11.jpg" },
+                      attrs: { href: "assets/images/gallery/pw/6.webp" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/11.jpg",
+                          src: "assets/images/gallery/pw/6.webp",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6790,13 +6817,89 @@ var staticRenderFns = [
                     "a",
                     {
                       staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
-                      attrs: { href: "assets/images/gallery/15.jpg" },
+                      attrs: { href: "assets/images/gallery/pw/10.webp" },
                     },
                     [
                       _c("img", {
                         staticClass: "thumb-gallery",
                         attrs: {
-                          src: "assets/images/gallery/15.jpg",
+                          src: "assets/images/gallery/pw/10.webp",
+                          alt: "Our Prawedding Photo",
+                        },
+                      }),
+                    ]
+                  ),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "uk-grid-margin uk-first-column" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
+                      attrs: { href: "assets/images/gallery/pw/9.webp" },
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "thumb-gallery",
+                        attrs: {
+                          src: "assets/images/gallery/pw/9.webp",
+                          alt: "Our Prawedding Photo",
+                        },
+                      }),
+                    ]
+                  ),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "uk-grid-margin" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
+                      attrs: { href: "assets/images/gallery/pw/12.webp" },
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "thumb-gallery",
+                        attrs: {
+                          src: "assets/images/gallery/pw/12.webp",
+                          alt: "Our Prawedding Photo",
+                        },
+                      }),
+                    ]
+                  ),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "uk-grid-margin uk-first-column" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
+                      attrs: { href: "assets/images/gallery/pw/13.webp" },
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "thumb-gallery",
+                        attrs: {
+                          src: "assets/images/gallery/pw/13.webp",
+                          alt: "Our Prawedding Photo",
+                        },
+                      }),
+                    ]
+                  ),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "uk-grid-margin" }, [
+                  _c(
+                    "a",
+                    {
+                      staticClass: "uk-inline yn-anim uk-scrollspy-inview ",
+                      attrs: { href: "assets/images/gallery/pw/14.webp" },
+                    },
+                    [
+                      _c("img", {
+                        staticClass: "thumb-gallery",
+                        attrs: {
+                          src: "assets/images/gallery/pw/14.webp",
                           alt: "Our Prawedding Photo",
                         },
                       }),
@@ -6915,7 +7018,7 @@ var staticRenderFns = [
                         staticClass:
                           "tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl",
                       },
-                      [_vm._v("M Fahmi Ulul Azmi")]
+                      [_vm._v("Dede Gunawan")]
                     ),
                     _vm._v(" "),
                     _c(
@@ -6926,10 +7029,12 @@ var staticRenderFns = [
                       },
                       [
                         _vm._v(
-                          "\n                            Putra dari Bpk H. Nurhaya (Alm) "
+                          "\n                            Putra dari Bpk Jaya Umar"
                         ),
                         _c("br"),
-                        _vm._v("& Ibu Hj. Rohyani\n                        "),
+                        _vm._v("&"),
+                        _c("br"),
+                        _vm._v("Ibu Maemunah\n                        "),
                       ]
                     ),
                   ]),
@@ -6943,7 +7048,7 @@ var staticRenderFns = [
                         staticClass:
                           "tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl",
                       },
-                      [_vm._v("Aliyah Marwah")]
+                      [_vm._v("Arini Alvin Hidayati")]
                     ),
                     _vm._v(" "),
                     _c(
@@ -6954,11 +7059,13 @@ var staticRenderFns = [
                       },
                       [
                         _vm._v(
-                          "\n                            Putri dari Bpk Aliudin (Alm) "
+                          "\n                            Putri dari Bpk H. Aji Mustapa"
                         ),
                         _c("br"),
+                        _vm._v("&"),
+                        _c("br"),
                         _vm._v(
-                          " Bpk Mulyadi (TNI Purn) & Ibu Maryanah\n                        "
+                          "Ibu Hj. Odijah / Hj. Ijong\n                        "
                         ),
                       ]
                     ),
