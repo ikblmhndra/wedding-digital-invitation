@@ -26,8 +26,9 @@ const modal = UIkit.modal("#my_id");
 modal.show();
 
 window.document.getElementById('play-sound').addEventListener('click', function (event) {
-    const sourceAudio = new Audio();
-    sourceAudio.autoplay = true;
-    sourceAudio.src = "assets/music/beauty-in-white.m4a"
-    sourceAudio.play();
+    window.document.getElementById('audio').play();
+    // const sourceAudio = new Audio();
+    // sourceAudio.autoplay = true;
+    // sourceAudio.src = "assets/music/beauty-in-white.m4a"
+    // sourceAudio.play();
 });

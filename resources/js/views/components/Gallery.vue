@@ -4,8 +4,15 @@
             <div class="uk-container uk-container-small">
                 <h2 class="tw-text-3xl sm:tw-text-4xl tw-mb-8 uk-text-center midnight yn-color yn-anim uk-scrollspy-inview "
                     style="">
-                    Gallery
+                    Our Moment
                 </h2>
+                <center>
+                    <video id="video1" width="420" controls>
+                        <source src="assets/video/prewed.mp4" type="video/mp4">
+                    </video>
+                </center>
+                <br>
+                <br>
             </div>
             <div class="uk-container uk-container-small">
                 <h2 class="tw-text-3xl sm:tw-text-4xl tw-mb-8 uk-text-center midnight yn-color yn-anim uk-scrollspy-inview "
@@ -94,7 +101,14 @@
 
 <script>
     export default {
-
+        mounted() {
+            document.getElementById('video1').addEventListener('play',function (event){
+                document.getElementById('audio').pause();
+            })
+            document.getElementById('video1').addEventListener('pause',function (event){
+                document.getElementById('audio').play();
+            })
+        }
     }
 </script>
 

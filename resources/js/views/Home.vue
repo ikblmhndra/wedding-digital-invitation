@@ -51,14 +51,14 @@
                     Isi Buku Tamu
                 </button>
 
-                <a
-                    class="uk-button uk-button-success uk-align-center"
-                    href="#modal-center"
-                    uk-toggle=""
-                    style="width: 171px; margin-top: 8px"
-                    aria-expanded="false"
-                    >Gifts</a
-                >
+<!--                <a-->
+<!--                    class="uk-button uk-button-success uk-align-center"-->
+<!--                    href="#modal-center"-->
+<!--                    uk-toggle=""-->
+<!--                    style="width: 171px; margin-top: 8px"-->
+<!--                    aria-expanded="false"-->
+<!--                    >Gifts</a-->
+<!--                >-->
 
                 <!-- gifts -->
                 <div id="modal-center" class="uk-flex-top uk-modal" uk-modal="">
@@ -143,11 +143,23 @@
             - 'the last good man'
         </p>
 
+        <div class="tw-h-28"></div>
+
+        <p
+            class="
+                tw-text-xs tw-text-extralight tw-text-center tw-italic
+                text-thelast
+            "
+        >
+            NusaInvitation by <a href="https://www.instagram.com/nusalab.studios/">@nusalab.studios</a>
+        </p>
+
         <hr class="divider-thelast" />
 
         <div class="tw-h-12"></div>
 
         <Navbar></Navbar>
+        <MusicBox></MusicBox>
     </div>
 </template>
 

@@ -68,7 +68,7 @@
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
     -webkit-mask-position: center;
-    background-image: url('/assets/images/male.jpg');
+    background-image: url('/assets/images/gallery/pw/male.jpg');
 }
 
 .pw {
@@ -86,7 +86,7 @@
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
     -webkit-mask-position: center;
-    background-image: url('/assets/images/female.jpg');
+    background-image: url('/assets/images/gallery/pw/female.jpg');
 }
 
 .divider {
