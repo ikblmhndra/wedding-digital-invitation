@@ -24,19 +24,21 @@
         methods: {
             unMuteAudio() {
                 this.isMute = true;
+                document.getElementById('musicStatus').setAttribute("value",0);
                 // const sourceAudio = new Audio();
                 // sourceAudio.autoplay = true;
                 // sourceAudio.src = "assets/music/music.m4a"
                 // sourceAudio.pause();
-                document.getElementById('audio').pause();
+                // document.getElementById('audio').pause();
             },
             muteAudio() {
                 this.isMute = false;
+                document.getElementById('musicStatus').setAttribute("value",1);
                 // const sourceAudio = new Audio();
                 // sourceAudio.autoplay = true;
                 // sourceAudio.src = "assets/music/music.m4a"
                 // sourceAudio.play();
-                document.getElementById('audio').play();
+                // document.getElementById('audio').play();
             }
         },
     }

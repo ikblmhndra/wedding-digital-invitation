@@ -201,6 +201,7 @@ function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len 
 //
 //
 //
+//
 
 
 
@@ -345,20 +346,20 @@ __webpack_require__.r(__webpack_exports__);
   },
   methods: {
     unMuteAudio: function unMuteAudio() {
-      this.isMute = true; // const sourceAudio = new Audio();
+      this.isMute = true;
+      document.getElementById('musicStatus').setAttribute("value", 0); // const sourceAudio = new Audio();
       // sourceAudio.autoplay = true;
       // sourceAudio.src = "assets/music/music.m4a"
       // sourceAudio.pause();
-
-      document.getElementById('audio').pause();
+      // document.getElementById('audio').pause();
     },
     muteAudio: function muteAudio() {
-      this.isMute = false; // const sourceAudio = new Audio();
+      this.isMute = false;
+      document.getElementById('musicStatus').setAttribute("value", 1); // const sourceAudio = new Audio();
       // sourceAudio.autoplay = true;
       // sourceAudio.src = "assets/music/music.m4a"
       // sourceAudio.play();
-
-      document.getElementById('audio').play();
+      // document.getElementById('audio').play();
     }
   }
 });
@@ -1071,10 +1072,27 @@ window.onscroll = function () {
 var modal = UIkit.modal("#my_id");
 modal.show();
 window.document.getElementById('play-sound').addEventListener('click', function (event) {
-  window.document.getElementById('audio').play(); // const sourceAudio = new Audio();
-  // sourceAudio.autoplay = true;
-  // sourceAudio.src = "assets/music/beauty-in-white.m4a"
-  // sourceAudio.play();
+  // window.document.getElementById('audio').play();
+  var sourceAudio = new Audio();
+  sourceAudio.src = "assets/music/beauty-in-white.m4a";
+  sourceAudio.play();
+  document.getElementById('video1').addEventListener('play', function (event) {
+    document.getElementById('musicStatus').setAttribute("value", 2);
+    sourceAudio.src = "";
+  });
+  document.getElementById('video1').addEventListener('pause', function (event) {
+    document.getElementById('musicStatus').setAttribute("value", 3);
+    sourceAudio.play();
+  });
+  document.getElementById('musicStatus').addEventListener('change', function () {
+    var status = document.getElementById('musicStatus').getAttribute("value");
+
+    if (status == 0) {
+      sourceAudio.src = "";
+    } else if (status == 1) {
+      sourceAudio.play();
+    }
+  });
 });
 
 /***/ }),
@@ -5252,6 +5270,10 @@ var render = function () {
                 ]
               ),
               _vm._v(" "),
+              _c("input", {
+                attrs: { type: "hidden", id: "musicStatus", value: "1" },
+              }),
+              _vm._v(" "),
               _vm._m(0),
               _vm._v(" "),
               _c("FormGuestBook", { on: { completed: _vm.addComment } }),
@@ -5328,8 +5350,6 @@ var render = function () {
       _c("div", { staticClass: "tw-h-12" }),
       _vm._v(" "),
       _c("Navbar"),
-      _vm._v(" "),
-      _c("MusicBox"),
     ],
     1
   )

@@ -50,6 +50,7 @@
                     ></span>
                     Isi Buku Tamu
                 </button>
+                <input type="hidden" id="musicStatus" value="1">
 
 <!--                <a-->
 <!--                    class="uk-button uk-button-success uk-align-center"-->
@@ -159,7 +160,7 @@
         <div class="tw-h-12"></div>
 
         <Navbar></Navbar>
-        <MusicBox></MusicBox>
+<!--        <MusicBox></MusicBox>-->
     </div>
 </template>
 
