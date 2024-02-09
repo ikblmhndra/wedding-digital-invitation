@@ -83,21 +83,21 @@
                                 <a class="uk-accordion-title" href="#">BCA</a>
                                 <div class="uk-accordion-content">
                                     <img
-                                        src="assets/images/gifts/bca.jpeg"
+                                        src="assets/images/gifts/atm2.png"
                                         class="tw-mx-auto tw-h-auto"
                                         width="400"
-                                        alt="BCA QR CODE"
+                                        alt="NOMOR REKENING BCA"
                                     />
                                 </div>
                             </li>
                             <li class="uk-open">
-                                <a class="uk-accordion-title" href="#">OVO</a>
+                                <a class="uk-accordion-title" href="#">MANDIRI</a>
                                 <div class="uk-accordion-content">
                                     <img
-                                        src="assets/images/gifts/ovo.jpeg"
+                                        src="assets/images/gifts/atm1.png"
                                         class="tw-mx-auto tw-h-auto"
                                         width="400"
-                                        alt="OVO QR CODE"
+                                        alt="NOMOR REKENING MANDIRI"
                                     />
                                 </div>
                             </li>

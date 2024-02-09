@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="sm:tw-max-w-screen-sm tw-px-3 sm:tw-px-7 tw-mx-auto protocol">
         <div class="tw-flex tw-py-4 tw-px-10">
             <div class="tw-mx-auto">
@@ -91,4 +91,4 @@ export default {
 }
 
 
-</style>
+</style> -->
