@@ -141,18 +141,18 @@ __webpack_require__.r(__webpack_exports__);
   methods: {
     unMuteAudio: function unMuteAudio() {
       this.isMute = true;
-      // const sourceAudio = new Audio();
-      // sourceAudio.autoplay = true;
-      // sourceAudio.src = "assets/music/music.m4a"
-      // sourceAudio.pause();
+      var sourceAudio = new Audio();
+      sourceAudio.autoplay = true;
+      sourceAudio.src = "assets/music/music.m4a";
+      sourceAudio.pause();
       document.getElementById('audio').pause();
     },
     muteAudio: function muteAudio() {
       this.isMute = false;
-      // const sourceAudio = new Audio();
-      // sourceAudio.autoplay = true;
-      // sourceAudio.src = "assets/music/music.m4a"
-      // sourceAudio.play();
+      var sourceAudio = new Audio();
+      sourceAudio.autoplay = true;
+      sourceAudio.src = "assets/music/music.m4a";
+      sourceAudio.play();
       document.getElementById('audio').play();
     }
   }
@@ -529,7 +529,6 @@ var staticRenderFns = [function () {
     attrs: {
       id: "audio",
       muted: "",
-      autoplay: "",
       loop: "",
       playsinline: ""
     }
