@@ -16,7 +16,7 @@
                     <div>
                         <a class="uk-inline yn-anim uk-scrollspy-inview "
                             href="assets/images/gallery/cover.jpg">
-                            <img class="thumb-gallery" src="assets/images/gallery/cover.jpg" alt="Our Prawedding Photo">
+                            <img class="thumb-gallery" src="assets/images/gallery/18.jpg" alt="Our Prawedding Photo">
                         </a>
                     </div>
                     <div class="uk-grid-margin uk-first-column">

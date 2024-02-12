@@ -95,6 +95,9 @@
                                 Ungkapan terima kasih yang tulus dari kami apabila Bapak/Ibu/Teman-teman berkenan hadir dan
                                 memberikan doa restu.
                             </p>
+                            <p class="tw-font-normal tw-text-base tw-text-center tw-py-2">
+                                Wassalamualaikum Warahmatullahi Wabarakatuh
+                            </p>
                         </div>
                     </div>
                 </div>

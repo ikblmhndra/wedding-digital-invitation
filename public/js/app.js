@@ -811,7 +811,9 @@ var render = function render() {
     }
   })])])]), _vm._v(" "), _vm._m(4), _vm._v(" "), _c("p", {
     staticClass: "tw-text-sm tw-leading-relaxed"
-  }, [_vm._v("\n                            Ungkapan terima kasih yang tulus dari kami apabila Bapak/Ibu/Teman-teman berkenan hadir dan\n                            memberikan doa restu.\n                        ")])])])])])])]);
+  }, [_vm._v("\n                            Ungkapan terima kasih yang tulus dari kami apabila Bapak/Ibu/Teman-teman berkenan hadir dan\n                            memberikan doa restu.\n                        ")]), _vm._v(" "), _c("p", {
+    staticClass: "tw-font-normal tw-text-base tw-text-center tw-py-2"
+  }, [_vm._v("\n                            Wassalamualaikum Warahmatullahi Wabarakatuh\n                        ")])])])])])])]);
 };
 var staticRenderFns = [function () {
   var _vm = this,
@@ -1259,7 +1261,7 @@ var staticRenderFns = [function () {
   }, [_c("img", {
     staticClass: "thumb-gallery",
     attrs: {
-      src: "assets/images/gallery/cover.jpg",
+      src: "assets/images/gallery/18.jpg",
       alt: "Our Prawedding Photo"
     }
   })])]), _vm._v(" "), _c("div", {
@@ -1410,7 +1412,7 @@ var staticRenderFns = [function () {
     staticClass: "tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl"
   }, [_vm._v("Ila Laelah")]), _vm._v(" "), _c("p", {
     staticClass: "tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-12 sm:tw-mb-20"
-  }, [_vm._v("\n                            Putri dari Bapak Anwaru Salam "), _c("br"), _vm._v(" Ibu Nuranah\n                        ")])])])]), _vm._v(" "), _c("hr", {
+  }, [_vm._v("\n                            Putri dari Bapak Anwaru Salam "), _c("br"), _vm._v("& Ibu Nuranah\n                        ")])])])]), _vm._v(" "), _c("hr", {
     staticClass: "divider"
   })])])]);
 }];

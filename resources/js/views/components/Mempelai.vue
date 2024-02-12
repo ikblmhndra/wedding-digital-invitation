@@ -29,7 +29,7 @@
                             <div class="pw tw-mx-auto"></div>
                             <h2 class="tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl">Ila Laelah</h2>
                             <p class="tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-12 sm:tw-mb-20">
-                                Putri dari Bapak Anwaru Salam <br> Ibu Nuranah
+                                Putri dari Bapak Anwaru Salam <br>& Ibu Nuranah
                             </p>
                         </div>
                     </div>
