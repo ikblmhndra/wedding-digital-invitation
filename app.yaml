@@ -1,24 +1,6 @@
-runtime: php
-env: flex
-
-# Ensure we skip ".env", which is only for local development
-skip_files: 
-    - .env
-
-automatic_scaling:
-    min_num_instances: 1
-    max_num_instances: 1
-
-resources:
-    cpu: 2
-    memory_gb: 4
-    disk_size_gb: 100
-
+runtime: php8 # bisa sesuaikan php versionnya
 env_variables:
-    # Put production environment variables here.
-    APP_DEBUG: true
-    APP_ENV: production
-    APP_KEY: base64:o+wiLVl4R266DU/5WjPkpslaissrl8sWaXnxvkAVfpc=
-    APP_NAME: "GCP App - CODE"
-
-    LOG_LEVEL: debug
+  APP_KEY: base64:7U1r+n8iXFpcwoR9Tj0HMtAGbsFKvclnGF1O2R6DDN4= # copy output dari key generate kesini
+  APP_STORAGE: /tmp
+  VIEW_COMPILED_PATH: /tmp
+  SESSION_DRIVER: cookie
