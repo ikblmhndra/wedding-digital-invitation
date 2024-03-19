@@ -62,7 +62,7 @@
 
                     <p class="uk-text-medium txt-simple">YOU'RE INVITED TO OUR WEDDING</p>
                     <h2 class="yn-color tw-mt-4" style="line-height:1; margin-bottom:9px !important; font-size:28px;">
-                        Ikbal &amp; Ila	</h2>
+                        Ila &amp; Ikbal	</h2>
                 </div>
 
                 <div class="tw-mt-20">
