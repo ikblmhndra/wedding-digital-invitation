@@ -76,7 +76,7 @@
                             uk-close=""
                         ></button>
                         <p class="uk-text-center tw-mb-5">
-                            Scan untuk memberikan kebahagian kepada Pengantin.
+                            Hadiahkan untuk kebahagian kepada Pengantin.
                         </p>
                         <ul uk-accordion="" class="uk-accordion">
                             <li class="uk-open">

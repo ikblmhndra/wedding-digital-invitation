@@ -461,7 +461,7 @@ var staticRenderFns = [function () {
     }
   }), _vm._v(" "), _c("p", {
     staticClass: "uk-text-center tw-mb-5"
-  }, [_vm._v("\n                        Scan untuk memberikan kebahagian kepada Pengantin.\n                    ")]), _vm._v(" "), _c("ul", {
+  }, [_vm._v("\n                        Hadiahkan untuk kebahagian kepada Pengantin.\n                    ")]), _vm._v(" "), _c("ul", {
     staticClass: "uk-accordion",
     attrs: {
       "uk-accordion": ""
@@ -874,7 +874,7 @@ var staticRenderFns = [function () {
     staticStyle: {
       "font-size": "14px"
     }
-  }, [_vm._v("Pukul 08.00 - 11.00 WIB")])]), _vm._v(" "), _c("div", [_c("p", {
+  }, [_vm._v("Pukul 08.00 - Selesai")])]), _vm._v(" "), _c("div", [_c("p", {
     staticClass: "tw-text-brown-lighter tw-font-normal tw-text-1xl sm:tw-text-2xl lg:tw-text-3xl",
     staticStyle: {
       "font-family": "Greenlight Script"
@@ -884,7 +884,7 @@ var staticRenderFns = [function () {
     staticStyle: {
       "font-size": "14px"
     }
-  }, [_vm._v("Pukul 11.45 - 17.00 WIB")])])]);
+  }, [_vm._v("Pukul 09.00 - 17.00 WIB")])])]);
 }, function () {
   var _vm = this,
     _c = _vm._self._c;
@@ -1412,7 +1412,7 @@ var staticRenderFns = [function () {
     staticClass: "tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl"
   }, [_vm._v("Ila Laelah")]), _vm._v(" "), _c("p", {
     staticClass: "tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-12 sm:tw-mb-20"
-  }, [_vm._v("\n                            Putri dari Bapak Anwaru Salam "), _c("br"), _vm._v("& Ibu Nuranah\n                        ")])])])]), _vm._v(" "), _c("hr", {
+  }, [_vm._v("\n                            Putri dari Bapak Anwarusalam "), _c("br"), _vm._v("& Ibu Nuranah\n                        ")])])])]), _vm._v(" "), _c("hr", {
     staticClass: "divider"
   })])])]);
 }];

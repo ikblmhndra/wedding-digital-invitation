@@ -56,13 +56,13 @@
                                     <p class="tw-text-brown-lighter tw-font-normal tw-text-1xl sm:tw-text-2xl lg:tw-text-3xl"
                                         style="font-family: Greenlight Script;">Akad</p>
                                     <p class="tw-text-center tw-mt-2 md:tw-mt-4 tw-text-md sm:tw-text-base md:tw-text-base"
-                                        style="font-size: 14px;">Pukul 08.00 - 11.00 WIB</p>
+                                        style="font-size: 14px;">Pukul 08.00 - Selesai</p>
                                 </div>
                                 <div>
                                     <p class="tw-text-brown-lighter tw-font-normal tw-text-1xl sm:tw-text-2xl lg:tw-text-3xl"
                                         style="font-family: Greenlight Script;">Resepsi</p>
                                     <p class="tw-text-center tw-mt-2 md:tw-mt-4 tw-text-md sm:tw-text-base md:tw-text-base"
-                                        style="font-size: 14px;">Pukul 11.45 - 17.00 WIB</p>
+                                        style="font-size: 14px;">Pukul 09.00 - 17.00 WIB</p>
                                 </div>
                             </div>
 
