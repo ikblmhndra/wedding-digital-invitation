@@ -1402,17 +1402,17 @@ var staticRenderFns = [function () {
     staticClass: "pl tw-mx-auto"
   }), _vm._v(" "), _c("h2", {
     staticClass: "tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl"
-  }, [_vm._v("Ikbal Mahendra")]), _vm._v(" "), _c("p", {
+  }, [_vm._v("Ila Laelah")]), _vm._v(" "), _c("p", {
     staticClass: "tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-10"
-  }, [_vm._v("\n                            Putra dari Bapak Ujang Supriatna "), _c("br"), _vm._v("& Ibu Lilis Sumiati\n                        ")])]), _vm._v(" "), _c("div", {
+  }, [_vm._v("\n                            Putri dari Bapak Anwarusalam "), _c("br"), _vm._v("& Ibu Nuranah\n                        ")])]), _vm._v(" "), _c("div", {
     staticClass: "tw-text-center"
   }, [_c("div", {
     staticClass: "pw tw-mx-auto"
   }), _vm._v(" "), _c("h2", {
     staticClass: "tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl"
-  }, [_vm._v("Ila Laelah")]), _vm._v(" "), _c("p", {
+  }, [_vm._v("Ikbal Mahendra")]), _vm._v(" "), _c("p", {
     staticClass: "tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-12 sm:tw-mb-20"
-  }, [_vm._v("\n                            Putri dari Bapak Anwarusalam "), _c("br"), _vm._v("& Ibu Nuranah\n                        ")])])])]), _vm._v(" "), _c("hr", {
+  }, [_vm._v("\n                            Putra dari Bapak Ujang Supriatna "), _c("br"), _vm._v("& Ibu Lilis Sumiati\n                        ")])])])]), _vm._v(" "), _c("hr", {
     staticClass: "divider"
   })])])]);
 }];
@@ -3680,7 +3680,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_laravel_mix_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.m-name[data-v-4fc729d8] {\n    font-family: Greenlight Script;\n}\n.pl[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/male.jpg');\n}\n.pw[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/female.jpg');\n}\n.divider[data-v-4fc729d8] {\n    margin: 0 auto;\n    width: 35%;\n    margin-bottom: 20px;\n    margin-top: 10px;\n    border: 0;\n    height: 1px;\n    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(206, 180, 108, 0.75), rgba(255, 255, 255, 0));\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.m-name[data-v-4fc729d8] {\n    font-family: Greenlight Script;\n}\n.pl[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/female.jpeg');\n}\n.pw[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/male.jpeg');\n}\n.divider[data-v-4fc729d8] {\n    margin: 0 auto;\n    width: 35%;\n    margin-bottom: 20px;\n    margin-top: 10px;\n    border: 0;\n    height: 1px;\n    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(206, 180, 108, 0.75), rgba(255, 255, 255, 0));\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 

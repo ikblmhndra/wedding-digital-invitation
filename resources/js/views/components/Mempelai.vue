@@ -20,16 +20,16 @@
                     <div class="tw-grid tw-grid-cols-1 sm:tw-grid-cols-2 sm:tw-gap-4 md:tw-gap-2 lg:tw-gap-6 tw-mx-auto">
                         <div class="tw-text-center">
                             <div class="pl tw-mx-auto"></div>
-                            <h2 class="tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl">Ikbal Mahendra</h2>
+                            <h2 class="tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl">Ila Laelah</h2>
                             <p class="tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-10">
-                                Putra dari Bapak Ujang Supriatna <br>& Ibu Lilis Sumiati
+                                Putri dari Bapak Anwarusalam <br>& Ibu Nuranah
                             </p>
                         </div>
                         <div class="tw-text-center">
                             <div class="pw tw-mx-auto"></div>
-                            <h2 class="tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl">Ila Laelah</h2>
+                            <h2 class="tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl">Ikbal Mahendra</h2>
                             <p class="tw-text-sm lg:tw-font-semibold tw-font-normal tw-mb-12 sm:tw-mb-20">
-                                Putri dari Bapak Anwarusalam <br>& Ibu Nuranah
+                                Putra dari Bapak Ujang Supriatna <br>& Ibu Lilis Sumiati
                             </p>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
     -webkit-mask-position: center;
-    background-image: url('/assets/images/male.jpg');
+    background-image: url('/assets/images/female.jpeg');
 }
 
 .pw {
@@ -86,7 +86,7 @@
     -webkit-mask-repeat: no-repeat;
     mask-position: center;
     -webkit-mask-position: center;
-    background-image: url('/assets/images/female.jpg');
+    background-image: url('/assets/images/male.jpeg');
 }
 
 .divider {
